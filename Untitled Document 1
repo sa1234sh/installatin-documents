@@ -13,3 +13,11 @@ git add filepathname "to add specific file"
 git commit -m "what we have done"  --giving name
 git push origin "to see the branch name"
 
+git branch--- to see branch
+git checkout -b branchname   --- to create branch bname
+git checkout branchbame ---- to change  one branch to anther branch
+git merge branchname
+
+git stash -- to remove all changes in current branch
+git stash apply  --- to save the changes done in another branch
+
