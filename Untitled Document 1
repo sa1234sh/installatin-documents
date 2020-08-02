@@ -21,3 +21,8 @@ git merge branchname
 git stash -- to remove all changes in current branch
 git stash apply  --- to save the changes done in another branch
 
+
+git clone url --- to get the project from github
+git fetch -- to get all exhisting branches
+git branch --all ---to see all branches
+
