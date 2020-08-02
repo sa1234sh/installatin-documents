@@ -3,3 +3,13 @@ linux basics
 mkdir "to create directory"
 cd "change directory"
 ls " list"
+github commands
+
+
+git status "to see the modified files"
+git diff "to see the difference between modified and exhisting files"
+git add . " to add all files"
+git add filepathname "to add specific file"
+git commit -m "what we have done"  --giving name
+git push origin "to see the branch name"
+
