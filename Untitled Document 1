@@ -16,3 +16,19 @@ git push origin "to see the branch name"
 
 to install mysql 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql.
+
+
+rvm gemset installation
+
+ruby version 2.5.8
+
+we can set any number versions to one ruby or rvm
+
+rvm gemset creation
+
+rvm gemset create saa 
+rvm gemset use saa
+gem install rails -v '5.0.0'
+..............
+
+
